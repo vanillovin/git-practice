@@ -2,3 +2,4 @@ hello world!
 vlovin
 twinstae
 change branch name fix -> fix-welcome
+update remote
