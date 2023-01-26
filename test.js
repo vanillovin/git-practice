@@ -14,4 +14,7 @@ export const sumbitHandler = async (evt) => {
   }
 };
 
-export const getName = name => name;
+export const getName = name => {
+  if (!name) throw new Error('name is required');
+  return name;
+};
