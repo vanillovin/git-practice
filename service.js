@@ -3,3 +3,5 @@ class LoginService {
     
   }
 }
+
+class CherryService {}

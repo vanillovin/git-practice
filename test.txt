@@ -1,5 +1,2 @@
 tests for profile service
 profile service interface
-cherry service
-tests for cherry service
-cherry service interface
