@@ -1,2 +1,0 @@
-profile UI
-profile service interface
