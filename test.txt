@@ -1,3 +1,2 @@
-rebase test!
-profile UI
+tests for profile service
 profile service interface
